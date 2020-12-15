@@ -7,18 +7,24 @@ Desafio do curso FullCycle, no módulo de DevOps, trabalhando com docker.
 ### Requisitos
 1. O nome da imagem deverá ser: username/codeeducation
 2. A imagem deverá ter menos de __2MB__ de tamanho
+
   
-### Para rodar!
+### Para rodar
+##### Dockerhub
+:whale: `giovannylucas/codeeducation`
+
+<br/>
+##### Diretamente
 `
 cd desafio-docker-golang
 `
 
 `
-docker build -t giovanny/codeeducation .
+docker build -t giovannylucas/codeeducation .
 `
 
 `
-docker run giovanny/codeeducation
+docker run giovannylucas/codeeducation
 `
 <br/>
 <br/>
