@@ -15,15 +15,13 @@ Desafio do curso FullCycle, no módulo de DevOps, trabalhando com docker.
 
 <br/>
 ##### Diretamente
-<br/>
+
 `
 cd desafio-docker-golang
 `
-
 `
 docker build -t giovannylucas/codeeducation .
 `
-
 `
 docker run giovannylucas/codeeducation
 `
