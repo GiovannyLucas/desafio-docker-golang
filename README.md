@@ -12,7 +12,9 @@ Desafio do curso FullCycle, no módulo de DevOps, trabalhando com docker.
 ### Para rodar
 ##### Dockerhub :whale:
 ```docker pull giovannylucas/codeeducation
-docker run giovannylucas/codeeducation``` <br/>
+docker run giovannylucas/codeeducation
+```
+<br/>
 
 ##### Diretamente :zap:
 ```
