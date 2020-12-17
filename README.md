@@ -11,21 +11,18 @@ Desafio do curso FullCycle, no módulo de DevOps, trabalhando com docker.
   
 ### Para rodar
 ##### Dockerhub :whale:
-`docker pull giovannylucas/codeeducation` <br/>
-`docker run giovannylucas/codeeducation` <br/>
+```docker pull giovannylucas/codeeducation
+docker run giovannylucas/codeeducation``` <br/>
 
 ##### Diretamente :zap:
-`
+```
 git clone ...
-` <br/>
-`
+
 cd desafio-docker-golang
-` <br/>
-`
+
 docker build -t giovannylucas/codeeducation .
-` <br/>
-`
+
 docker run giovannylucas/codeeducation
-`
+```
 <br/>
 <br/>
